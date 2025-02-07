@@ -49,6 +49,7 @@ Vi kommer dessutom att täcka det som inom JavaScript kallas för just moduler: 
 
 ### Övningar 
 
+* [API Bootcamp](https://github.com/fu-javascript-fe24/week-7-exercise-api-bootcamp/tree/main)
 
 
 
