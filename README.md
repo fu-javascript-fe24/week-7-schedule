@@ -23,10 +23,10 @@ Vi kommer dessutom att täcka det som inom JavaScript kallas för just moduler: 
 
 ### Inspelade föreläsningar
 
-* [API Grunder, 10 feb](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EZkfPbmhbvlCmdfKoft8RMIBT5r73r81vMCusRboHgCtsg?e=2wayA7)
-
 **LIVE**
 
+* [API Grunder, 10 feb](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EZkfPbmhbvlCmdfKoft8RMIBT5r73r81vMCusRboHgCtsg?e=2wayA7)
+ 
 **Förinspelat** (för distansklassen)
 
 * [API-anrop - koncept](https://vimeo.com/1054465438/88363f5d91) - till måndag
