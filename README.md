@@ -23,6 +23,8 @@ Vi kommer dessutom att täcka det som inom JavaScript kallas för just moduler: 
 
 ### Inspelade föreläsningar
 
+* [API Grunder, 10 feb](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EZkfPbmhbvlCmdfKoft8RMIBT5r73r81vMCusRboHgCtsg?e=2wayA7)
+
 **LIVE**
 
 **Förinspelat** (för distansklassen)
@@ -35,8 +37,8 @@ Vi kommer dessutom att täcka det som inom JavaScript kallas för just moduler: 
 
 ### Lektionsrepon
 
-* [10 jan](https://github.com/fu-javascript-fe24/week-7-lecture-10-feb)
-* [11 jan](https://github.com/fu-javascript-fe24/week-7-lecture-11-feb)
+* [10 feb](https://github.com/fu-javascript-fe24/week-7-lecture-10-feb)
+* [11 feb](https://github.com/fu-javascript-fe24/week-7-lecture-11-feb)
 
 ### Filmer
 
