@@ -26,6 +26,8 @@ Vi kommer dessutom att täcka det som inom JavaScript kallas för just moduler: 
 **LIVE**
 
 * [API Grunder, 10 feb](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EZkfPbmhbvlCmdfKoft8RMIBT5r73r81vMCusRboHgCtsg?e=2wayA7)
+* [API Fördjupning, 10 feb](https://funet-my.sharepoint.com/:v:/g/personal/jesper_nyberg_folkuniversitetet_se/EWRpcMrT3xlHg-atUQipA0MBqqQeMj-zPSyBom3Qcg4HRA?e=FgWxLG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* [ES6 Moduler Fördjupning, 11 feb](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/EZAlDWDXd_FEj3ZdJnhrKQABxZngiTOepfrsSYhx70Lfrg?e=l6a004&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
  
 **Förinspelat** (för distansklassen)
 
