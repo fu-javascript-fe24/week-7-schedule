@@ -41,6 +41,7 @@ Vi kommer dessutom att täcka det som inom JavaScript kallas för just moduler: 
 
 * [10 feb](https://github.com/fu-javascript-fe24/week-7-lecture-10-feb)
 * [11 feb](https://github.com/fu-javascript-fe24/week-7-lecture-11-feb)
+* [13 feb](https://github.com/fu-javascript-fe24/week-7-lecture-13-feb)
 
 ### Filmer
 
