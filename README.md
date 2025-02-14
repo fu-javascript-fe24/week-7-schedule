@@ -55,6 +55,7 @@ Vi kommer dessutom att täcka det som inom JavaScript kallas för just moduler: 
 ### Övningar 
 
 * [API Bootcamp](https://github.com/fu-javascript-fe24/week-7-exercise-api-bootcamp/tree/main)
+* [Examinationsuppgift](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/EQ6d4vLJxT9IhRXIzf8A4UQBJhsEBqmy-xER4mfdb-5s_g?e=sTPdMl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 
